@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.996" height="23.479" viewBox="0 0 19.996 23.479">
+  <g id="Create_Client" data-name="Create Client" transform="translate(-7744.753 -10546.704)" opacity="0.75">
+    <g id="man-user" transform="translate(7744.753 10546.704)">
+      <path id="Path_77" data-name="Path 77" d="M108.794,10.346c2.352,0,4.259-2.316,4.259-5.173S112.427,0,108.794,0s-4.259,2.316-4.259,5.173S106.442,10.346,108.794,10.346Z" transform="translate(-100.749)" fill="#2a2a2a"/>
+      <path id="Path_78" data-name="Path 78" d="M41.9,300.461c0-.174,0-.049,0,0Z" transform="translate(-41.895 -282.218)" fill="#2a2a2a"/>
+      <path id="Path_79" data-name="Path 79" d="M308.085,301.644c0-.048,0-.331,0,0Z" transform="translate(-291.997 -283.264)" fill="#2a2a2a"/>
+      <path id="Path_80" data-name="Path 80" d="M57.986,185.032c-.079-4.977-.729-6.395-5.7-7.292a3.494,3.494,0,0,1-4.664,0c-4.919.888-5.609,2.285-5.7,7.131-.007.4-.011.416-.012.371,0,.086,0,.245,0,.523,0,0,1.184,2.387,8.043,2.387S58,185.764,58,185.764c0-.178,0-.3,0-.387A3.2,3.2,0,0,1,57.986,185.032Z" transform="translate(-41.907 -166.997)" fill="#2a2a2a"/>
+    </g>
+    <g id="Group_440" data-name="Group 440" transform="translate(7754.428 10559.861)">
+      <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="5.161" cy="5.161" rx="5.161" ry="5.161" fill="#fff"/>
+      <path id="plus" d="M4.3,0A4.3,4.3,0,1,0,8.6,4.3,4.306,4.306,0,0,0,4.3,0ZM6.369,4.632H4.632v1.82a.331.331,0,0,1-.662,0V4.632H2.233a.331.331,0,0,1,0-.662H3.97V2.316a.331.331,0,1,1,.662,0V3.97H6.369a.331.331,0,1,1,0,.662Z" transform="translate(0.86 0.86)" fill="#2a2a2a"/>
+    </g>
+  </g>
+</svg>

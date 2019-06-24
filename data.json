@@ -1,0 +1,310 @@
+{
+	"function": {
+		"data_qa": {
+			"data_entry_event_number": "EN#0000000077",
+			"qa_status": "Pending",
+			"qa_comments": "",
+			"qa_event_number": "",
+			"data_entry_user": "5cecd188fcef726e772f5323",
+			"data_entry_datetime": "2019-05-31T11:12:45.920Z"
+		},
+		"data": {
+			"electronic_NCL_details": {
+				"file_name": "",
+				"file_location": ""
+			},
+			"physical_NCL_details": {
+				"product_storage_temperature": "",
+				"product_storage_location": ""
+			},
+			"flags": {
+				"process_flag_1": {
+					"comments": ""
+				},
+				"process_flag_2": {
+					"comments": ""
+				},
+				"eq_flags": {
+					"eq_flag_1": {
+						"comments": ""
+					},
+					"eq_flag_2": {
+						"comments": ""
+					}
+				},
+				"miscellaneous_flags": {
+					"flag_1": {
+						"code": "",
+						"comments": ""
+					},
+					"flag_2": {
+						"code": "",
+						"comments": ""
+					},
+					"flag_3": {
+						"code": "",
+						"comments": ""
+					}
+				}
+			},
+			"asn": [],
+			"study_number": "",
+			"study_number_comments": "",
+			"product_description": "",
+			"product_description_comments": "",
+			"site_number": "",
+			"site_name": "",
+			"non_critical_label_desc": "",
+			"ncl_sender_name": "",
+			"ncl_received_comments": "",
+			"ncl_received_name": "",
+			"ncl_received_verified_name": "",
+			"f5_client_communication_num": "",
+			"f5_client_communication_num_comment": "",
+			"operator_comment": [],
+			"supervisor_comments": [],
+			"cir_reference": "",
+			"ncl_type": null,
+			"ncl_sender_date": null,
+			"ncl_sender_time": null,
+			"ncl_received_verified_date": null,
+			"ncl_received_date": null
+		},
+		"objects": {
+			"ir": [ "IR#0000000002" ],
+			"ncl": []
+		},
+		"reference_number": "NCL#0000000005",
+		"type": "NCL",
+		"active": "ACTIVE",
+		"_id": "5cf10bd990f550373cd52e59",
+		"ctos_id": {
+			"data_qa": {
+				"data_entry_event_number": "EN#0000000045",
+				"qa_status": "PASSED",
+				"qa_comments": "first",
+				"qa_event_number": "EN#0000000046",
+				"data_entry_datetime": "2019-05-30T17:09:26.198Z",
+				"qa_user": "5cecd13e9972466e6dcbbd6d",
+				"qa_datetime": "2019-05-30T17:11:27.818Z"
+			},
+			"data": {
+				"contact": {
+					"report_package_ctls_info": {
+						"ivrs_name": "",
+						"ivrs_login_ctls": "Pending",
+						"ivrs_workshop": "Pending"
+					},
+					"is_complete": true,
+					"study": [],
+					"blinded_study": [],
+					"unblinded_study": [],
+					"storage_excursion": [],
+					"inbound": [],
+					"outbound": [],
+					"returns": [],
+					"destructions": [],
+					"secondary_labeling": [],
+					"reporting": [],
+					"report_package_ctls": false
+				},
+				"product_info": {
+					"storage_temperature_excursion_limit": {
+						"high_temperature": "",
+						"low_temperature": "",
+						"max_execution_time": "",
+						"min_excursion_time": ""
+					},
+					"is_product_DG_info": {
+						"un_number": "",
+						"class": "",
+						"packing_group": ""
+					},
+					"product_imported_australia_info": {
+						"import_quarantine_detail": "",
+						"permit_validity": "",
+						"permit_conditions": "",
+						"is_import_permit_supplied_ctls": "Pending",
+						"permit_number": ""
+					},
+					"product_name": "",
+					"product_description": "A compelling product description provides customers with details around features, problems it solves and other benefits to help generate a sale",
+					"max_exposure_time_outside_storage_temperature": "first",
+					"schedule_of_product": "",
+					"is_complete": true,
+					"product_type": "Investigational Product (IP)",
+					"is_product_kit_individual_component": "Pending",
+					"is_segregated_storage_required_if_frozen": "Pending",
+					"coa_ctls": "Pending",
+					"batch_ctls": "Pending",
+					"ctn_ctls": "Pending",
+					"msds_ctls": "Pending",
+					"is_product_cytotoxic": "Pending",
+					"specific_instruction_for_cytotoxic": "",
+					"is_product_radioactive": "Pending",
+					"specific_instruction_for_radioactive": "",
+					"is_product_gmo": "Pending",
+					"specific_instruction_for_gmo": "",
+					"is_boilogical_product": "NO",
+					"is_product_DG": "Pending",
+					"is_product_imported_australia": "NO",
+					"is_schedule_4d": "NO",
+					"is_5G5H_product_import": "NO",
+					"is_schedult8_product_import": "NO"
+				},
+				"inbound": {
+					"retention_samples_info": {
+						"specific_instructions": "",
+						"quantity_to_be_stored": "",
+						"duration_to_store": ""
+					},
+					"bulk_replenishments_depot_frequency": "",
+					"estimated_bulk_shipments_depot": "",
+					"required_shipping_documents": "first",
+					"shipping_temperature": "",
+					"temperature_device_specific_instruction": "",
+					"inbound_quarantine_specific_instruction": "",
+					"required_confirming_documents": "",
+					"inbound_quarantine_instruction": "",
+					"is_complete": true,
+					"expected_first_shipments_depot": null,
+					"customer_clearance_By": "",
+					"quarantine_status_required_by_client": "NO",
+					"retention_samples_retained": "N/A",
+					"is_IVRS_required_to_be_updated": "NO"
+				},
+				"outbound": {
+					"type_of_order_request_raised_info": {
+						"authorised_name_1": "Pushkar",
+						"contact_position_1": "Development",
+						"contact_email_1": "pushkar_0806@hotmail.com",
+						"contact_number_1": "7687684456",
+						"contact_number_blinded_2": ""
+					},
+					"client_packaging_supplied_ctls_info": {
+						"type_of_ctls": "",
+						"shipper_type_instruction": "",
+						"is_supplied_ctls": "NO",
+						"winter_date_range": null,
+						"summer_date_range": null,
+						"is_report_supplied_ctls": "NO",
+						"allow_transist_time": "",
+						"ctls_quantity": "",
+						"ctls_trigger_level": "",
+						"packaging_stoage_instructions": ""
+					},
+					"package_supplied_ctls_info": {
+						"type_of_ctls": "",
+						"shipper_type_instruction": "",
+						"packout_diagram": "NO",
+						"ctls_winter_date": null,
+						"ctls_summer_date": null,
+						"qualification_report": "NO",
+						"package_allowable_time": "",
+						"approved_ctls_package": ""
+					},
+					"estimated_number_of_outbound_shipped": "",
+					"copacked_product_description": "",
+					"shipment_courier_used": "",
+					"shipping_temperature_to_be_specified": "",
+					"shipment_documents_required": "",
+					"required_confirming_documents": "",
+					"specific_instructions": "",
+					"is_complete": true,
+					"supplied_contact_sites_list_to_ctls": "Pending",
+					"num_of_aus_sites": "",
+					"number_of_nz_site": "NO",
+					"SCOTTS_approval_supplied_to_ctls": "Pending",
+					"num_of_other_international_sites": "",
+					"type_of_order_request_raised": "Pending",
+					"client_packaging_supplied_to_ctls": "Pending",
+					"package_supplied_ctls": "Pending",
+					"is_temperature_device_required": "Pending",
+					"courier_account_no": "",
+					"secondary_labeling_requirement": "Required for Process",
+					"specific_labeling_requirement": "NO",
+					"ivrs_outbound_confirmation": "NO",
+					"is_aor_required": "NO",
+					"aor_instruction": "",
+					"days_of_expiry": "first",
+					"quarantine_status_for_expired_products": "Pending",
+					"instructions_for_expired_products": ""
+				},
+				"return_to_ctls": {
+					"storage_temperature_client_determined": "",
+					"storage_temperature_ctls_designated": "",
+					"required_document_to_email": "",
+					"specific_instruction": "",
+					"is_complete": true,
+					"is_site_return_expected": "Pending",
+					"is_ctls_required_in_booking": "NO",
+					"is_ctls_required_in_packaging": "NO",
+					"packaging_instruction": "",
+					"level_1_returns": "NO",
+					"level_2_returns": "NO",
+					"final_desposition": "",
+					"shipping_documents_required": "",
+					"ivrs_receipt": "NO"
+				},
+				"destruction": {
+					"secondary_labeling": {
+						"required_documents": "Yes",
+						"is_activity_anticipated": "Pending",
+						"default_quarantine": "NO",
+						"anticipated_type_of_labeling": "Good Quality",
+						"specific_instruction_labeling": "Glass Caution"
+					},
+					"kit_assembly": {
+						"is_kit_assembly_anticipated": "Pending",
+						"anticipated_type": "",
+						"default_quarantine": "Pending",
+						"product_description": "",
+						"required_documents": "",
+						"specific_instruction_kit": ""
+					},
+					"stoke_take": {
+						"is_stock_take_required": "NO",
+						"specific_instruction_stock_take": ""
+					},
+					"is_complete": true,
+					"is_rotational_preApproved": "NO",
+					"is_final_destruction_approval_required": "NO",
+					"is_destruction_material_required": "NO",
+					"is_witness_destruction_required": "NO",
+					"is_IVRS_required": "NO",
+					"documents_required_to_be_sent": "",
+					"specific_instruction": "",
+					"types_of_reports_required": "",
+					"frequency_of_reports_required": "",
+					"instruction_for_reposting": "",
+					"specific_WI_supplied_to_client": "NO",
+					"specific_instructions_for_archive_docs": ""
+				},
+				"is_contract_executed": "Pending",
+				"client_reference_number": "CR#0000000007",
+				"client_name": "first",
+				"study_number": "first",
+				"study_name": "first",
+				"study_description": "first",
+				"study_type": "first",
+				"study_duration": "first",
+				"list_of_product_names": "first",
+				"client_communication_number": "first",
+				"client_communication_number_comments": "first",
+				"cir_reference": "first",
+				"operator_comments": [ "first:SHOW" ],
+				"supervisor_comments": [ "first:SHOW" ],
+				"study_start_date": "2019-05-17T06:30:00.000Z",
+				"ctos_inactive_date": "2019-05-09T06:30:00.000Z",
+				"ctos_archive_date": "2019-05-08T06:30:00.000Z"
+			},
+			"type": "CTOS",
+			"reference_number": "CTOS#0000000005",
+			"revision_number": 0,
+			"active": "ACTIVE",
+			"_id": "5cf00de52cf98f60050e1574",
+			"reference_id": "5cf00de52cf98f60050e1573",
+			"client_revision_id": "5cf00bf458f5de5df01be30a"
+		}
+	}
+}
